@@ -3,7 +3,11 @@ In this part we touched on the topic of WAZUH LOGS + AV
 
 blog : 
 https://wazuh.com/blog/using-wazuh-to-monitor-sysmon-events/
-Please always follow best practices and settings 
+
+
+https://www.kaspersky.com/small-to-medium-business-security/downloads
+
+#### Please always follow best practices and settings 
 
 
 scripts to check the recording of events: 
